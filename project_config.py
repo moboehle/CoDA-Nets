@@ -1,0 +1,6 @@
+DATA_ROOT = ""
+
+MODEL_ROOT = ""
+
+CURR_EXP_PATH = ""
+RISE_MASK_PATH = ""
