@@ -1,8 +1,8 @@
 <div style="margin-left:auto; margin-right:auto; padding:0; text-align:center">
-  <img width="180px" height="auto" style="vertical-align:middle" src="media/lorikeet.gif?raw=true"/>
-  <img width="180px" height="auto" style="vertical-align:middle" src="media/drake2_atts.gif?raw=true"/>
-  <img width="180px" height="auto" style="vertical-align:middle" src="media/birds_atts.gif?raw=true"/>
-  <img width="180px" height="auto" style="vertical-align:middle" src="media/goldfinch.gif?raw=true"/>
+  <img width="180px" height="auto" style="vertical-align:middle; display:inline" src="media/lorikeet.gif?raw=true"/>
+  <img width="180px" height="auto" style="vertical-align:middle; display:inline" src="media/drake2_atts.gif?raw=true"/>
+  <img width="180px" height="auto" style="vertical-align:middle; display:inline" src="media/birds_atts.gif?raw=true"/>
+  <img width="180px" height="auto" style="vertical-align:middle; display:inline" src="media/goldfinch.gif?raw=true"/>
 </div>
 # Introduction
 [CoDA Net Paper](https://arxiv.org/pdf/2104.00032.pdf)  |  [CoDA Nets on GitHub](https://github.com/moboehle/CoDA-Nets) 
