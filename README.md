@@ -1,9 +1,9 @@
 # Convolutional Dynamic Alignment Networks for Interpretable Classifications
-Official implementation of the CVPR 2021 paper (oral): (link)
+Official implementation of the CVPR 2021 paper (oral): [Arxiv Paper](https://arxiv.org/pdf/2104.00032.pdf)
 
 M. Böhle, M. Fritz, B. Schiele. **Convolutional Dynamic Alignment Networks for Interpretable Classifications**. CVPR, 2021.
 <div style="displaystyle=block;align=center;"><p align="center" >
-  <img src="media/example_figure.png"/>
+  <img src="docs/media/example_figure.png"/>
   </p>
 </div>
 
@@ -26,7 +26,7 @@ M. Böhle, M. Fritz, B. Schiele. **Convolutional Dynamic Alignment Networks for 
 
 ## Comparison to post-hoc explanation methods evaluated on the CoDA-Nets
 <div style="displaystyle=block;align=center;"><p align="center" >
-  <img src="media/comparisons.png"/>
+  <img src="docs/media/comparisons.png"/>
   </p>
 </div>
 
@@ -34,10 +34,10 @@ M. Böhle, M. Fritz, B. Schiele. **Convolutional Dynamic Alignment Networks for 
 ## Evaluated on videos
 In order to highlight the stability of the contribution-based explanations of the CoDA-Nets, we present some examples for which the output for the respective class of the CoDA-Net was linearly decomposed frame by frame; for more information, see [interpretability/eval_on_videos.py](interpretability/eval_on_video.py).
 <div style="displaystyle=block;align=center"><p align="center">
-  <img width="240px" height="auto"  src="media/lorikeet.gif?raw=true"/>
-  <img width="240px" height="auto" src="media/drake2_atts.gif?raw=true"/>
-  <img width="240px" height="auto" src="media/birds_atts.gif?raw=true"/>
-  <img width="240px" height="auto" src="media/goldfinch.gif?raw=true"/>
+  <img width="240px" height="auto"  src="docs/media/lorikeet.gif?raw=true"/>
+  <img width="240px" height="auto" src="docs/media/drake2_atts.gif?raw=true"/>
+  <img width="240px" height="auto" src="docs/media/birds_atts.gif?raw=true"/>
+  <img width="240px" height="auto" src="docs/media/goldfinch.gif?raw=true"/>
 </p></div>
 
 ## Quantitative Interpretability results
