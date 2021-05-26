@@ -1,9 +1,9 @@
-<div style="displaystyle=block;align=center"><p align="center">
-  <img width="180px" height="auto"  src="media/lorikeet.gif?raw=true"/>
-  <img width="180px" height="auto" src="media/drake2_atts.gif?raw=true"/>
-  <img width="180px" height="auto" src="media/birds_atts.gif?raw=true"/>
-  <img width="180px" height="auto" src="media/goldfinch.gif?raw=true"/>
-</p></div>
+<div style="margin-left:auto; margin-right:auto; padding:0; text-align:center">
+  <img width="180px" height="auto" style="vertical-align:middle" src="media/lorikeet.gif?raw=true"/>
+  <img width="180px" height="auto" style="vertical-align:middle" src="media/drake2_atts.gif?raw=true"/>
+  <img width="180px" height="auto" style="vertical-align:middle" src="media/birds_atts.gif?raw=true"/>
+  <img width="180px" height="auto" style="vertical-align:middle" src="media/goldfinch.gif?raw=true"/>
+</div>
 # Introduction
 [CoDA Net Paper](https://arxiv.org/pdf/2104.00032.pdf)  |  [CoDA Nets on GitHub](https://github.com/moboehle/CoDA-Nets) 
 |  [Method overview (CVPR Poster)](https://github.com/moboehle/CoDA-Nets/resources/CVPR_Poster.pdf)  
