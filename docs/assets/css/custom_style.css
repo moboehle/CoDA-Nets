@@ -39,6 +39,15 @@ img.zoom:hover {
 
 }
 
+img.intro_gifs {
+    width:160px;
+    height: auto;
+    vertical-align:middle;
+    display:inline;
+    margin:0;
+    padding:0;
+
+}
 
 #project_tagline {  margin: auto; color: #fff; font-size: 24px; font-weight: 300; background: none; text-shadow: #111 0px 0px 10px;
 display: block; text-align:center}
