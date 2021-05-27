@@ -1,5 +1,5 @@
 # Convolutional Dynamic Alignment Networks for Interpretable Classifications
-Official implementation of the CVPR 2021 paper (oral): [Arxiv Paper](https://arxiv.org/pdf/2104.00032.pdf)
+Official implementation of the CVPR 2021 paper (oral): [Arxiv Paper](https://arxiv.org/pdf/2104.00032.pdf) | [GitHub Pages](https://moboehle.github.io/CoDA-Nets/) 
 
 M. Böhle, M. Fritz, B. Schiele. **Convolutional Dynamic Alignment Networks for Interpretable Classifications**. CVPR, 2021.
 <div style="displaystyle=block;align=center;"><p align="center" >
