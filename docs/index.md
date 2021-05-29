@@ -10,10 +10,10 @@
 
 
 Today's deep neural network architectures achieve impressive performances on a wide array of different tasks.
-In order to pull of these feats, they are trained 'end-to-end' on large amounts of data, which allows them 
+In order to pull off these feats, they are trained 'end-to-end' on large amounts of data, which allow them 
 to learn the most useful features for a given task on their own
 instead of relying on hand-crafted features designed by domain experts.
-While the possibility for end-to-end training has significantly boosted performance, this approach has a flipside: 
+While the possibility for end-to-end training has significantly boosted performance, this approach comes at a cost: 
     as the feature extraction process is highly unconstrained, 
     it is difficult to follow the decision making process throughout the network and thus hard
     to understand in hindsight how a deep neural network arrived at a particular decision.
@@ -80,14 +80,14 @@ dynamic matrices is too complex and unconstrained, the network can achieve any o
 
 Therefore, as a second architectural constraint, we propose to additionally restrict the 
 norm of the dynamically computed DAU weights, e.g., to unit norm. By doing this, the DAU outputs are bounded 
-independent of the network parameters and can at most be as large as the norm of the input.
+independently of the network parameters and can at most be as large as the norm of the input.
 In order to achieve large outputs (relative to the input norm), the network therefore 
 has to align the dynamic weights with the input, as visualised in the following figure.
  <div style="displaystyle=block; align=center; margin: auto">
   <img style="width:50%; padding:0" src="media/DAU.gif?raw=true"/>
 </div>
-Hence, when maximising the output of a single DAU over a set of inputs, the DAUs is
-optimised to produce weights that are good angular reconstructions of those inputs, since it cannot increase the 
+Hence, when maximising the output of a single DAU over a set of inputs, the DAUs are
+optimised to produce weights that are good angular reconstructions of those inputs, since they cannot increase the 
 output by simply scaling up the weights.
 
 Importantly, when optimising a network for classification, the network is trained to _maximise_ the logit of the
@@ -111,7 +111,7 @@ Copyright (c) 2021 Moritz Böhle, Max-Planck-Gesellschaft
 
 This code is licensed under the BSD License 2.0, see [license](LICENSE).
 
-Further, you use any of the code in this repository for your research, please cite as:
+Further, if you use any of the code in this repository for your research, please cite as:
 ```
   @article{Boehle2021CVPR,
           author    = {Moritz Böhle and Mario Fritz and Bernt Schiele},
