@@ -6,7 +6,7 @@
 </div>
 # Introduction
 [CoDA Net Paper](https://arxiv.org/pdf/2104.00032.pdf)  |  [CoDA Nets on GitHub](https://github.com/moboehle/CoDA-Nets) 
-|  [Method overview (CVPR Poster)](https://nextcloud.mpi-klsb.mpg.de/index.php/s/KkgQSe7RmT64Ntk)  |  [CoDA Nets on YouTube (CVPR Talk)](https://www.youtube.com/watch?v=nzopGymtQe0) 
+|  [Method overview (CVPR Poster)](https://nextcloud.mpi-klsb.mpg.de/index.php/s/KkgQSe7RmT64Ntk)  |  [CoDA Nets on YouTube (CVPR Talk)](https://youtu.be/stdLYIzWWvw) 
 
 
 Today's deep neural network architectures achieve impressive performances on a wide array of different tasks.
