@@ -9,7 +9,7 @@ jupyter-highlight-selected-word==0.2.0
 jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator==0.4.1
 lime==0.2.0.0
-numpy==1.17.3
+numpy==1.19
 opencv-python==4.2.0
 scikit-image==0.16.2
 scikit-learn==0.22.2.post1
